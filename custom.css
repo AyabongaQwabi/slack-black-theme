@@ -991,6 +991,3 @@ ts-jumper ts-jumper-container {
 .c-virtual_list__scroll_container, {
     background: #111;
 }
-.c-virtual_list__scroll_container:hover{
-    background: #333;
-}
