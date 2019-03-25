@@ -984,7 +984,7 @@ ts-jumper ts-jumper-container {
     color: #fff
 }
 
-.c-timestamp, .c-timestamp:hover, c-message__body:hover .c-timestamp:link{
+.c-timestamp, .c-timestamp:hover .c-timestamp:link{
     color: #888
 }
 
