@@ -979,3 +979,15 @@ ts-jumper, ts-jumper.active {
 ts-jumper ts-jumper-container {
   box-shadow: 0 5px 20px rgba(0,0,0,1);
 }
+
+.c-message__sender, .c-message__body{
+    color: #fff
+}
+
+.c-timestamp, .c-timestamp:hover, .c-timestamp:link{
+    color: #888
+}
+
+.c-virtual_list__scroll_container{
+    background: #111;
+}
