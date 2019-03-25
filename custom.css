@@ -993,5 +993,8 @@ ts-jumper ts-jumper-container {
 }
 
 .c-virtual_list__item:hover{
-    backround: #222
+    backround: #222 !important;
+}
+.c-message--hover{
+    backround: #222 !important;
 }
