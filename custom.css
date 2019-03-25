@@ -182,7 +182,6 @@ li.active[class] span,
    background-color: var(--background);
    border: 1px solid var(--border-bright);
    border-bottom: none;
-   border-radius: 15px 15px 0 0;
 }
 
 /*"unread mentions"*/
@@ -242,7 +241,6 @@ ts-jumper input[type="text"]::-webkit-input-placeholder {
   color: var(--text) !important;
   background-color: var(--background) !important;
   border: 1px solid var(--border-bright) !important;
-  border-radius: 1rem;
 }
 
 .mention_day_container_div .day_divider .day_divider_label {
