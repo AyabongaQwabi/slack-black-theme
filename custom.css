@@ -988,6 +988,6 @@ ts-jumper ts-jumper-container {
     color: #888
 }
 
-.c-virtual_list__scroll_container, {
+.c-virtual_list__scroll_container {
     background: #111;
 }
