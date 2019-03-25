@@ -998,3 +998,6 @@ ts-jumper ts-jumper-container {
 .c-message--hover{
     background: #222 !important;
 }
+.c-message__sender_link {
+    color: #999;
+}
